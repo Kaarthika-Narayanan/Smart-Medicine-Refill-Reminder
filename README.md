@@ -1,25 +1,30 @@
+• Smart Medicine Refill Reminder System : 
 
-Smart Medicine Refill Reminder System
-A comprehensive full-stack web application that helps users track their medicines, sends refill reminders automatically, and provides quick access to online pharmacy reordering.
+    A comprehensive full-stack web application that helps users track their medicines, sends refill reminders automatically, and provides quick access to online pharmacy reordering.
 
-🎯 Project Overview
-This system allows users to add their medicines with details such as name, dosage frequency, total quantity, and start date. The system automatically calculates refill dates, tracks remaining doses, and sends email reminders when stock is running low. It provides a user-friendly dashboard to monitor all medicines in real time.
+🎯 Project Overview :
+    
+    This system allows users to add their medicines with details such as name, dosage frequency, total quantity, and start date. The system automatically calculates refill dates, tracks remaining doses, and sends email reminders when stock is running low. It provides a user-friendly dashboard to monitor all medicines in real time.
 
-✨ Features
-Core Features
-User Authentication: Secure signup, login, logout with JWT authentication
-Medicine Management: Add, update, delete medicines with automatic refill calculations
-Real-time Dashboard: Monitor all medicines with status indicators and progress bars
-Email Notifications: Automated daily and weekly reminders for refill dates
-Pharmacy Integration: Direct links to 1mg.com for quick medicine reordering
-Status Tracking: Visual indicators for OK, Low Stock, and Refill Needed status
-Technical Features
-RESTful API: Complete backend API with proper authentication and validation
-Responsive Design: Mobile-first responsive UI design
-Real-time Calculations: Automatic refill date and remaining dose calculations
-Scheduled Tasks: Background scheduler for email reminders
-Modern Tech Stack: Java Spring Boot backend + React TypeScript frontend
-🛠 Tech Stack
+✨ Features :
+    Core Features
+        • User Authentication: Secure signup, login, logout with JWT authentication
+        • Medicine Management: Add, update, delete medicines with automatic refill calculations
+        • Real-time Dashboard: Monitor all medicines with status indicators and progress bars
+        • Email Notifications: Automated daily and weekly reminders for refill dates
+        • Pharmacy Integration: Direct links to 1mg.com for quick medicine reordering
+        • Status Tracking: Visual indicators for OK, Low Stock, and Refill Needed status
+
+• Technical Features : 
+
+    • RESTful API: Complete backend API with proper authentication and validation
+    • Responsive Design: Mobile-first responsive UI design
+    • Real-time Calculations: Automatic refill date and remaining dose calculations
+    • Scheduled Tasks: Background scheduler for email reminders
+    • Modern Tech Stack: Java Spring Boot backend + React TypeScript frontend
+
+🛠 Tech Stack :
+
 Backend (Java)
 Framework: Spring Boot 3.2.0
 Security: Spring Security with JWT authentication
